@@ -1,1 +1,2 @@
-# efficient-vim
+# vimrc
+some IDE settings
